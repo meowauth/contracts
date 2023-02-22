@@ -1,0 +1,4 @@
+*.key
+.idea/
+.DS_Store
+.vscode/
