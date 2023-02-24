@@ -60,9 +60,7 @@
   },
   "deployments": {
     "testnet": {
-      "testnet-account": [
-        "ChildAccount"
-      ]
+      "testnet-account": []
     }
   }
 }
